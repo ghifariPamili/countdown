@@ -1,6 +1,6 @@
 // 🎯 Ganti tanggal target sesuai kebutuhan (format: YYYY-MM-DDTHH:MM:SS)
 // Contoh: 20 Mei 2026 jam 00:00
-const TARGET_DATE = new Date("2026-05-20T00:00:00").getTime();
+const TARGET_DATE = new Date("2026-05-19T00:00:01").getTime();
 
 // 🎵 Audio control
 const bgMusic = document.getElementById("bg-music");
